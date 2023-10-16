@@ -1,3 +1,4 @@
+// javascript algorithms 
 function findMin(arr) {
  var min = arr[0];
  for (var i = 1; i < arr.length; ++i) {
