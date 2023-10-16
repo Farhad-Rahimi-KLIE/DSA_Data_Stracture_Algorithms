@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Repeating(data){
  let find = 5;
  let arr = [];
