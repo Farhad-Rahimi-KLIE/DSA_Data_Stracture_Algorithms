@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Queue() {
  this.dataStore = [];
  this.enqueue = enqueue;
