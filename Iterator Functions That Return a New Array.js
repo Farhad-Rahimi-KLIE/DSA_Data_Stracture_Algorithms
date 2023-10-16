@@ -1,3 +1,4 @@
+// javascript algorithms 
 function curve(grade) {
  return grade += 5;
 }
