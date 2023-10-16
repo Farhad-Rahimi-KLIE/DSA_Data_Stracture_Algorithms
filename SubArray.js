@@ -1,3 +1,4 @@
+// javascript algorithms 
 let data = [1,2,3,4,5,6,7,8,9];
 let start = 3;
 let sum = 0;
