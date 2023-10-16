@@ -1,3 +1,4 @@
+// javascript algorithms 
 function weekTemps() {
  this.dataStore = [];
  this.add = add;
