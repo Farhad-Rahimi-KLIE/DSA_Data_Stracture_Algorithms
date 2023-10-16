@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Occur(data,n,x){
  let res = 0;
  let data1 = [];
