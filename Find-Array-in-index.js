@@ -1,4 +1,4 @@
-function FindArrayIndex(data){
+// javascript algorithms function FindArrayIndex(data){
  let target = 3;
  let index = undefined;
  for(let i=0; i<data.length; i++){
