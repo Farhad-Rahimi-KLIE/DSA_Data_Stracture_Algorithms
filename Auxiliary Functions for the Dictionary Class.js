@@ -1,3 +1,4 @@
+// javascript algorithms 
 function count() {
  var n = 0;
  for each (var key in Object.keys(this.datastore)) {
