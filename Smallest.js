@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Smallest(data){
  let small = data[0];
  for(let i=0; i<data.length; i++){
