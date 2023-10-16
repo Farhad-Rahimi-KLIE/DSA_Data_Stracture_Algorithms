@@ -1,3 +1,4 @@
+// javascript algorithms 
 function clear() {
  delete this.dataStore;
  this.dataStore = [];
