@@ -1,3 +1,4 @@
+// javascript algorithms 
 function FindMajority(data,n){
  let maxCount = 0;
  let index = -1;
