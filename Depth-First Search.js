@@ -1,3 +1,4 @@
+// javascript algorithms 
 this.marked = [];
 for (var i = 0; i < this.vertices; ++i) {
  this.marked[i] = false;
