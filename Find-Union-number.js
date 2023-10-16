@@ -1,3 +1,4 @@
+// javascript algorithms 
 let data1 = [1,2,3,4,5];
 let data2 = [6,7,8,9];
 let data3 = [];
