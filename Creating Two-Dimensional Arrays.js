@@ -1,3 +1,4 @@
+// javascript algorithms 
 Array.matrix = function(numrows, numcols, initial) {
  var arr = [];
  for (var i = 0; i < numrows; ++i) {
