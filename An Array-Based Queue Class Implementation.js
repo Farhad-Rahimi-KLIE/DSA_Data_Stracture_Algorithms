@@ -1,3 +1,4 @@
+// javascript algorithms 
 names = [];
 name.push("Cynthia");
 names.push("Jennifer");
