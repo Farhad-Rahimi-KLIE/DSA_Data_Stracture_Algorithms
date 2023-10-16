@@ -1,3 +1,4 @@
+// javascript algorithms 
 function insertionSort() {
  var temp, inner;
  for (var outer = 1; outer <= this.dataStore.length-1; ++outer) {
