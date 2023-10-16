@@ -1,3 +1,4 @@
+// javascript algorithms 
 function findArray(data){
  let target = 7;
  let start = data[0];
