@@ -1,3 +1,4 @@
+// javascript algorithms 
 function front() {
  this.pos = 0;
 }
