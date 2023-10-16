@@ -1,3 +1,4 @@
+// javascript algorithms 
 function findPrevious(item) {
  var currNode = this.head;
  while (!(currNode.next == null) &&
