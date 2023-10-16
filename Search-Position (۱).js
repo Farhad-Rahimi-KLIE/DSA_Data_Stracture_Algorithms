@@ -1,3 +1,4 @@
+// javascript algorithms 
 let search = [1,3,5,6];
 let element = 5;
 let index = undefined;
