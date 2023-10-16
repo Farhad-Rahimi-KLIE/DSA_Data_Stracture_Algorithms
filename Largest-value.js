@@ -1,3 +1,4 @@
+// javascript algorithms 
 let value = [2,7,11,15];
 let target = 9;
 for(let i=0; i<value.length; i++){
