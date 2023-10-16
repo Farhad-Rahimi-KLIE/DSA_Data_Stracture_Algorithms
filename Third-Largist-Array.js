@@ -1,3 +1,4 @@
+// javascript algorithms 
 function thirdArray(data){
  let Tmax = data[0];
  for(let i=0; i<data.length; i++){
