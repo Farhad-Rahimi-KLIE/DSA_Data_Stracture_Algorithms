@@ -1,3 +1,4 @@
+// javascript Algorithms
 function makeChange(origAmt, coins) {
  var remainAmt = 0;
  if (origAmt % .25 < origAmt) {
