@@ -1,3 +1,4 @@
+// javascript algorithms 
 function square(num) {
  print(num, num * num);
 }
