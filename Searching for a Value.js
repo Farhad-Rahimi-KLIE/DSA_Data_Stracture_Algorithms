@@ -1,3 +1,4 @@
+// javascript algorithms 
 var names = ["David", "Cynthia", "Raymond", "Clayton", "Jennifer"];
 putstr("Enter a name to search for: ");
 var name = readline();
