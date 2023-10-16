@@ -1,3 +1,4 @@
+// javascript algorithms 
 left array - 6,Infinity
 right array - 10,Infinity
 left array - 1,Infinity
