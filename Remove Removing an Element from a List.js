@@ -1,3 +1,4 @@
+// javascript algorithms 
 function find(element) {
  for (var i = 0; i < this.dataStore.length; ++i) {
  if (this.dataStore[i] == element) {
