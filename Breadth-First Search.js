@@ -1,3 +1,4 @@
+// javascript algorithms 
 function bfs(s) {
  var queue = [];
  this.marked[s] = true;
