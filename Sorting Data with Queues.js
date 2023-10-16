@@ -1,3 +1,4 @@
+// javascript algorithms 
 Bin 0:
 Bin 1: 91, 31
 Bin 2: 92, 22
