@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Positive(data,n){
  let min = data[0];
  for(let i=0; i<n; i++){
