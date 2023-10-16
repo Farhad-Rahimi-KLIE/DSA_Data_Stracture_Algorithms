@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Search_Insert_Position(data){
  let position = 6;
  let index = undefined;
