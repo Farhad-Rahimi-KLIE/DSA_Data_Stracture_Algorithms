@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Merge(data1,data2,n){
  let data3 = [];
  for(let i=0; i<data1.length; i++){
