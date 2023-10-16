@@ -1,3 +1,4 @@
+// javascript algorithms 
 var numbers = [];
 print(numbers.length); // displays 0
 var numbers = [1,2,3,4,5];
