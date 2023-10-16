@@ -1,3 +1,4 @@
+// javascript algorithms 
 let data = [1,2,3,4,5];
 let newEl = 5;
 let start = 0;
