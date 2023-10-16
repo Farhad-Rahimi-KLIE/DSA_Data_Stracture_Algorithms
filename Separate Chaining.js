@@ -1,3 +1,4 @@
+// javascript algorithms 
 load("HashTable.js");
 var hTable = new HashTable();
 hTable.buildChains();
