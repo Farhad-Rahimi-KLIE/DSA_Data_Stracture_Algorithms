@@ -1,4 +1,4 @@
-function Negative(data){
+// javascript algorithms function Negative(data){
  let are = [];
  for(let i=0; i<data.length; i++){
   if(data[i]>i){
