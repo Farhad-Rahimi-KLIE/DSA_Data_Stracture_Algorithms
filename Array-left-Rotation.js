@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Rotate(){
  let first = data.shift();
  let second = data.shift();
