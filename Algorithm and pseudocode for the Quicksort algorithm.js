@@ -1,3 +1,4 @@
+// javascript algorithms
 function qSort(list) {
  if (list.length == 0) {
  return [];
