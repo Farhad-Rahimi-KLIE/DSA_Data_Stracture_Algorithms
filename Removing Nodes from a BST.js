@@ -1,3 +1,4 @@
+// javascript algorithms 
 function remove(data) {
  root = removeNode(this.root, data);
 }
