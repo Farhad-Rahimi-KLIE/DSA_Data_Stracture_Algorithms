@@ -1,3 +1,4 @@
+// javascript algorithms 
 var p = new Patient("Smith",5);
 var ed = new Queue();
 ed.enqueue(p);
