@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Set() {
  this.dataStore = [];
  this.add = add;
