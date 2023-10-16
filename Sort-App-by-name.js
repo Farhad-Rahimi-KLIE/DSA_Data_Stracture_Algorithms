@@ -1,3 +1,4 @@
+// javascript algorithms 
 const MemuItems = [
  {name : "Burgur", price:5.99},
  {name : "Soda", price:2.99},
