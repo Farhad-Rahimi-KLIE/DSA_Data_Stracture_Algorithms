@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Remove(data){
  let best = 3;
  for(let i=0; i<n; i++){
