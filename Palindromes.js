@@ -1,3 +1,4 @@
+// javascript algorithms 
 function isPalindrome(word) {
  var s = new Stack();
  for (var i = 0; i < word.length; ++i) {
