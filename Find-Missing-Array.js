@@ -1,3 +1,4 @@
+// javascript algorithms 
 let data = [1,2,3,4,5,67,8];
 let position = 4;
 let missing = 5;
