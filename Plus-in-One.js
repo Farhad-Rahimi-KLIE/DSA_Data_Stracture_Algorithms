@@ -1,4 +1,4 @@
-function PlusOne(data,n){
+// javascript algorithms function PlusOne(data,n){
  let data2 = [];
  for(let i=0; i<n; i++){
   data2.push(data[i])
