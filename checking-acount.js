@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Checking(amount) {
  this.balance = amount; // property
  this.deposit = deposit; // function
