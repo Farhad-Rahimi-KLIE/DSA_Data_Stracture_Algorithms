@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Concatenation(data){
  let data2 = [];
  for(let i=0; i<data.length; i++){
