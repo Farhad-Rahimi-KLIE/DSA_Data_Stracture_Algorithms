@@ -1,3 +1,4 @@
+// javascript algorithms 
 function lcs(word1, word2) {
  var max = 0;
  var index = 0;
