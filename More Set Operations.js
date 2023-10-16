@@ -1,3 +1,4 @@
+// javascript algorithms 
 function contains(data) {
  if (this.dataStore.indexOf(data) > -1) {
  return true;
