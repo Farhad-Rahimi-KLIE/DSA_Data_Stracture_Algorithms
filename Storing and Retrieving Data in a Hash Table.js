@@ -1,3 +1,4 @@
+// javascript algorithms 
 load("Hashing.js");
 var pnumbers = new HashTable();
 var name, number;
