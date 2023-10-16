@@ -1,3 +1,4 @@
+// javascript algorithms 
 function bubbleSort() {
  var numElements = this.dataStore.length;
  var temp;
