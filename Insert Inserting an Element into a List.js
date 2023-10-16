@@ -1,3 +1,4 @@
+// javascript algorithms 
 function insert(element, after) {
  var insertPos = this.find(after);
  if (insertPos > -1) {
