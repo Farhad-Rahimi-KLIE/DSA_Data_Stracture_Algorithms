@@ -1,3 +1,4 @@
+// javascript algorithms 
 function selectionSort() {
  var min, temp;
  for (var outer = 0; outer <= this.dataStore.length-2; ++outer) {
