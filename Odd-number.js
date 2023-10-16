@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Even_Odd(data){
  let fast = "";
  for(let i=0; i<data.length; i++){
