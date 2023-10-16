@@ -1,3 +1,4 @@
+// javascript algorithms 
 let data = [1,2,2,2,2,3,4,5,6,6,6,7,8];
 for(let i=0; i<data.length; i++){
  for(let j=0; j<data.length; j++){
