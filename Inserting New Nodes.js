@@ -1,3 +1,4 @@
+// javascript algorithms 
 function find(item) {
  var currNode = this.head;
  while (currNode.element != item) {
