@@ -1,3 +1,4 @@
+// javascript algorithms 
 function factorial(number) {
  if (number == 1) {
  return number;
