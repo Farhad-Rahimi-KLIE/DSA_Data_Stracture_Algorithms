@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Search_Rotate_Array(data){
  let word = 1;
  for(let i=0; i<n; i++){
