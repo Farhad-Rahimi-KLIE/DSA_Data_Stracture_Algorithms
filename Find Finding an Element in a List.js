@@ -1,3 +1,4 @@
+// javascript algorithms 
 function remove(element) {
  var foundAt = this.find(element);
  if (foundAt > -1) {
