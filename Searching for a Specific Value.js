@@ -1,3 +1,4 @@
+// javascript algorithms 
 function find(data) {
  var current = this.root;
  while (current.data != data) {
