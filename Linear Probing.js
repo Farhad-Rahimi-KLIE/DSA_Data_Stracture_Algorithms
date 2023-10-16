@@ -1,3 +1,4 @@
+// javascript algorithms 
 function put(key, data) {
  var pos = this.betterHash(key);
  if (this.table[pos] == undefined) {
