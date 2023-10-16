@@ -1,3 +1,4 @@
+// javascript algorithms 
 function Dictionary() {
  this.datastore = new Array();
 }
